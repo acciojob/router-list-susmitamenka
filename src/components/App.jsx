@@ -16,7 +16,7 @@ const App = () => {
         <Route path="/" component={Home}></Route>
         <Route path="/Item1"  component={Item1}></Route>
         <Route path="/Item2"  component={Item2}></Route>
-        <Route path="/Item3"  componen={Item3}></Route>
+        <Route path="/Item3"  component={Item3}></Route>
         
       </Router>
         {/* Do not remove the main div */}
